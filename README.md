@@ -19,3 +19,10 @@ to check accuracy and train model Successfully
 Step 3:
 Run this command in the same folder
 python app.py
+
+User Registration Page:
+![image](https://github.com/aftabakhan82/customer_churn/assets/87515168/a58190bc-0e17-47cd-9c7b-274eabaaa4f3)
+
+Prediction Page:
+![image](https://github.com/aftabakhan82/customer_churn/assets/87515168/897ae49d-adae-4366-ac6b-f57ed491b263)
+
