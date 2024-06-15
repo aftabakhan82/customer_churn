@@ -2,7 +2,6 @@ Step 1:
 Install Latest Python
 
 Install Dependencies:
-
 flask
 flask_sqlalchemy
 flask_login
