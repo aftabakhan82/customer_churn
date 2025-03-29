@@ -4,4 +4,5 @@ Flask-Login
 Werkzeug
 joblib
 pandas
+Flask-WTF
 gunicorn
