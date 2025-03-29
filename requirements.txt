@@ -1,0 +1,1 @@
+Flask Flask-SQLAlchemy Flask-Login Werkzeug joblib pandas
